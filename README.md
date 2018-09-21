@@ -1,6 +1,6 @@
 # FILLIT
   
-* *fillit is a tetris solver that takes as input a list of pieces (tetriminos) and displays on the standart output the smallest possible square formed by these pieces*
+* *Fillit is a tetris solver that takes as input a list of pieces (tetriminos) and displays on the standart output the smallest possible square formed by these pieces*
 * *It is a project at 42 school*
 
 ## Built With
@@ -15,7 +15,7 @@ C language
  
 * Git clone https://github.com/jsauron/fillit.git
 * Create files of tetriminos
-* *exemple* :
+* *Exemple* :
 ```
 $> cat [file] | cat -e
 ...#$
