@@ -58,7 +58,7 @@ $
 .#..$
 ....$
 ```
-##Usage
+## Usage
 
 Run `Make` and `./fillit [file]`
 
