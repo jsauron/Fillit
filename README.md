@@ -11,7 +11,7 @@ C language
  
 * Display a tetris visualisator
  
-## Running
+## Compiling
  
 * Git clone https://github.com/jsauron/fillit.git
 * Create files of tetriminos
@@ -58,6 +58,7 @@ $
 .#..$
 ....$
 ```
+##Usage
 
 Run `Make` and `./fillit [file]`
 
